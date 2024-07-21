@@ -1,0 +1,78 @@
+body{
+    background-color: #1e202b;
+    color: white;
+    
+  }
+  .collbtn ul{
+    list-style: none;
+  }
+  .wheather{
+    background-image: url(img/img1.png);
+    height: 50vh;
+    background-size: cover;
+    background-repeat: repeat repeat;
+    width: 100%;
+  }
+  .wheather input{
+    background-color: #1e202b;
+    border: 0px solid #1e202b;
+  }
+  .wheather input:focus{
+    background-color: #1e202b;
+    border: 0px solid #1e202b;
+  }
+  .footer input:focus{
+    background-color: #1e202b;
+    border: 0px solid #1e202b;
+  }
+  .footer input{
+    background-color: #1e202b;
+    border: 0px solid #1e202b;
+  }
+  .footer {
+    background-color: #262936; 
+  }
+  .contactPage h4{
+    background-color: #262936;  
+    
+  }
+  .contactPage h4 .hoverHome:hover{
+    text-decoration: underline
+  }
+  .contactPage h4:hover{
+    background-color: #262936; 
+  }
+  .card input{
+    background-color: #262936; 
+    border: 0px solid #1e202b;
+  }
+  .card textarea{
+    background-color: #262936; 
+  }
+  .card input:focus{
+    background-color: #262936; 
+    color: aliceblue;
+  }
+  .card textarea:focus{
+    background-color: #262936; 
+    color: aliceblue;
+  }
+  .details {
+    border: 1px solid #262936;
+    height: 20vh;
+    background-color: #262936;
+  }
+  .DetailsWeather{
+    background-color: #262936;
+  }
+  .DetailsWeather {
+    background-color: #323544;
+  }
+  .DetailsWeather .header{
+    background-color: #2d303d;
+  }
+  
+  .daythree .header{
+    background-color: #2d303d;
+  
+  }
