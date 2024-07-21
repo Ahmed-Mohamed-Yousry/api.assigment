@@ -64,6 +64,7 @@ body{
   }
   .DetailsWeather{
     background-color: #262936;
+    z-index: 99999999999999999999;
   }
   .DetailsWeather {
     background-color: #323544;
